@@ -1,4 +1,4 @@
-module github.com/kdudkov/mb_gate
+module github.com/careylipu/mb_gate
 
 go 1.14
 
